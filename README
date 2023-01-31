@@ -15,3 +15,5 @@ Each participant completed two sessions. Picture naming task was included in eac
 Details of all tasks and the experimental design are described in [link to the preprint].
 
 The dataset includes anatomical (T1 and T2 weighted), functional, and fieldmap scans for each participant. Anatomical and fieldmap scans were acquired for each session separately. Note! PE-polar fieldmaps were acquired at the beginning (acq-start) and in the end (acq-end) of each session. In the cases when the scanning session needed to be interrupted, some of the tasks functional scans should be corrected using the acq-end scans (see IntendedFor specification in the .json files accompanying fieldmaps).
+
+In case of any questions please contact Agata Wolna (agata.wolna@doctoral.uj.edu.pl) or Zofia Wodniecka (zofia.wodniecka@uj.edu.pl).
